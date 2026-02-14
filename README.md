@@ -1,4 +1,6 @@
-# ARHAM.exe // PORTFOLIO_V2
+# CHASE.exe // PORTFOLIO_V2
+
+I was fortunate to obtain this template, which I customized to better display my portfolio. I have added sections, changed styles, and updated infromation as needed. Below is the original README from the template. 
 
 ```
     ___    ____  __  ______    __  ___          ____  ____  ____  __________________  __    ________ 
